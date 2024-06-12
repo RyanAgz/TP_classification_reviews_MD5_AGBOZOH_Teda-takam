@@ -1,0 +1,5 @@
+beautifulsoup4
+kaggle
+pandas 
+nltk
+tensorflow
